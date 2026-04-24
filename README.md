@@ -1,4 +1,4 @@
-23BIS70035 - PARTH KANSAL
+
 
 # Learning outcomes
 - Understand Single Page Application (SPA) concepts 
