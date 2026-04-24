@@ -1,7 +1,9 @@
 23BIS70035 - PARTH KANSAL
 
 # Learning outcomes
-- Understand Single Page Application (SPA) concepts 
-- Apply React fundamentals such as functional components, JSX, props, and state management to build modular web pages.
-- Learnt about material UI in React JS
-- Use Material UI (MUI) components to design user interface.
+- Learnt routing in ReactJS
+- Understand the concept of SPA routing and how it differs from multi-page navigation
+- Learn to implement client-side routing using React Router
+- Learnt about components and props
+- Define and configure routes and route paths for multiple components/pages within an SPA
+- Learnt difference between Client side and Server side routing
